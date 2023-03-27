@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome Everyone !
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/125736610/228030224-105e571b-3e41-4d09-91ce-8e075a52a98f.png)
+
 
 <!--
 **shawn2233/shawn2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
